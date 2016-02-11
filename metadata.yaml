@@ -1,0 +1,25 @@
+_repo: From-Makin-to-Bougainville-Marine-Raiders-in-the-Pacific-War_48811
+creator:
+  author:
+    agent_name: Hoffman, Jon T.
+    birthdate: 1955
+    gutenberg_agent_id: '44981'
+    url: http://www.gutenberg.org/2009/agents/44981
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2015-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Marines in World War II, Commemorative Series
+subjects:
+- !lcsh 'World War, 1939-1945 -- Campaigns -- Pacific Area'
+- !lcsh 'United States. Marine Corps. Marine Raider Regiment, 1st -- History'
+- !lcc 'D731'
+- !lcsh 'World War, 1939-1945 -- Amphibious operations'
+title: 'From Makin to Bougainville: Marine Raiders in the Pacific War'
+url: http://www.gutenberg.org/ebooks/48811
