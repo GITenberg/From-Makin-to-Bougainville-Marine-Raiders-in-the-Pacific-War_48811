@@ -1,4 +1,8 @@
 _repo: From-Makin-to-Bougainville-Marine-Raiders-in-the-Pacific-War_48811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48811-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoffman, Jon T.
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '44981'
     url: http://www.gutenberg.org/2009/agents/44981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48811#From-Makin-to-Bougainville-Marine-Raiders-in-the-Pacific-War
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2015-04-27'
 gutenberg_type: Text
